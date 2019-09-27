@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static final int THREAD_COUNT = 3 ;//
 
+    //s
     //进度条
     private ProgressBar mProgress;
     //显示进度(百分比)
